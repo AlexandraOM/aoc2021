@@ -1,0 +1,23 @@
+{
+  "name": "aoc2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandraOM/aoc2021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexandraOM/aoc2021/issues"
+  },
+  "homepage": "https://github.com/AlexandraOM/aoc2021#readme",
+  "dependencies": {
+    "jest": "^27.4.3"
+  }
+}
